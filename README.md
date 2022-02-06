@@ -1,4 +1,4 @@
-# Sernian Language Flashcard App
+# Serbian Language Flashcard App
 Learn Serbian words with flashcards
 
 
